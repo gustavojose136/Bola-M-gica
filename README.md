@@ -10,15 +10,11 @@ A Bola Mágica Virtual é um emocionante projeto que recria a famosa "Bola 8 Má
 
 - **Interface de Usuário Atraente**: Uma interface de usuário intuitiva e atraente é projetada para criar uma experiência envolvente. Os usuários podem agitar a "bola" virtual ou clicar para revelar suas respostas.
 
-- **Personalização**: Os usuários têm a opção de personalizar a experiência escolhendo diferentes temas, cores e estilos para a "bola", tornando-a única e divertida.
-
-- **Compartilhamento Social**: O projeto permite que os usuários compartilhem suas perguntas e respostas engraçadas ou curiosas nas mídias sociais, tornando-o perfeito para interações sociais e entretenimento.
-
 ## Objetivos
 
 - Proporcionar uma experiência divertida e interativa que remete à nostalgia da Bola 8 Mágica clássica.
 
-- Criar um aplicativo leve e acessível que possa ser usado em dispositivos móveis e desktops.
+- Criar um aplicativo leve e acessível que possa ser usado em dispositivos móveis.
 
 - Oferecer uma ampla variedade de respostas mágicas para atender a todos os gostos e curiosidades.
 
